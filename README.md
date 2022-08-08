@@ -14,6 +14,7 @@
 # Aplicação e base de dados executados via docker
 ### Raiz do projeto e digite:
 **docker-compose up**
+#
 **docker network create builder-net**
 **docker network connect builder-net postgres-builders-api**
 **docker run -p 8080:8080 --rm --network builder-net soza77/builder:1.0**
