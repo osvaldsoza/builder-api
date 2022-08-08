@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    password: development
+    url: jdbc:postgresql://osfdeveloper-postgres.cmun4vs9altm.sa-east-1.rds.amazonaws.com/dbdevelopment?createDatabaseIfNotExist=true&serverTimezone=UTC
+    username: postgres
+  jpa:
+    database: POSTGRESQL
+  flyway:
+    locations: classpath:db/migration
+server:
+  port: 8080

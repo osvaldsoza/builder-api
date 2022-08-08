@@ -1,0 +1,11 @@
+br/com/osvaldsoza/core/SpringFoxConfig.class
+br/com/osvaldsoza/util/exception/EntidadeNaoEncontradaException.class
+br/com/osvaldsoza/service/ClienteService.class
+br/com/osvaldsoza/util/exception/EntidadeEmUsoException.class
+br/com/osvaldsoza/resource/ClienteResource.class
+br/com/osvaldsoza/model/Cliente.class
+br/com/osvaldsoza/repository/ClienteRepository.class
+br/com/osvaldsoza/util/ClienteUtil.class
+br/com/osvaldsoza/model/dto/ClienteDTO.class
+br/com/osvaldsoza/ClienteApiApplication.class
+br/com/osvaldsoza/model/response/ClienteResponse.class

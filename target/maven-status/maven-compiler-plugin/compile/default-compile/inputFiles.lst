@@ -1,0 +1,11 @@
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/repository/ClienteRepository.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/core/SpringFoxConfig.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/util/exception/EntidadeEmUsoException.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/util/ClienteUtil.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/resource/ClienteResource.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/model/response/ClienteResponse.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/util/exception/EntidadeNaoEncontradaException.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/model/dto/ClienteDTO.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/model/Cliente.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/ClienteApiApplication.java
+/Users/osvaldoferreira/Development/Java/builders-api/src/main/java/br/com/osvaldsoza/service/ClienteService.java
