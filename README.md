@@ -11,9 +11,9 @@
 * AWS RDS
 * AWS EC2
 
-## A aplicação encontra-se no EC2 AWS, verificar: Builder.postman_collection.json, que encontra-se no diretorio do projeto
+# Opcao 1: A aplicação encontra-se no EC2 AWS. Verificar a collection, Builder.postman_collection.json, que encontra-se no diretorio do projeto
 
-# Aplicação e base de dados executados via docker
+# Opcao 2: Aplicação e base de dados executados via docker
 ### Raiz do projeto e digite:
 **docker-compose up**
 #
