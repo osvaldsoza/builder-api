@@ -9,7 +9,11 @@
 * Docker Compose
 * Dockerfile
 * JDK 11
+* RDS
+* EC2
 
+##Swagger AWS
+http://ec2-54-233-172-151.sa-east-1.compute.amazonaws.com:8080/swagger-ui.html#/
 
 ## Aplicação e base de dados executados via docker
 ### Na raiz do projeto e digite:
