@@ -1,7 +1,7 @@
 spring:
   datasource:
-    password: development
-    url: jdbc:postgresql://osfdeveloper-postgres.cmun4vs9altm.sa-east-1.rds.amazonaws.com/dbdevelopment?createDatabaseIfNotExist=true&serverTimezone=UTC
+    password: postgres
+    url: jdbc:postgresql://localhost:5432/builder?createDatabaseIfNotExist=true&serverTimezone=UTC
     username: postgres
   jpa:
     database: POSTGRESQL
