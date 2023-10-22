@@ -1,6 +1,6 @@
 ![dotnet core](https://github.com/osvaldsoza/ApiFuncional/assets/9426175/d88bdc8e-7cc1-4bd3-bb81-d6e80e7a0c74)
 
-Select Language:   [Portuguese](https://github.com/osvaldsoza/builder-api/blob/builder-dev/README-pt.md)
+Select Language:   [Portuguese](https://github.com/osvaldsoza/builder-api/blob/main/README-pt.md)
 
 
 # Project Summary
