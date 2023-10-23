@@ -4,7 +4,7 @@
 
 # Resumo do projeto 
 Avaliação técnica da empresa ``Builder`` para desenvolvedor backend.  
-Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um ``Cliente``.
+Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um recurso.
 
 ## ✔️ Tecnologias utilizadas
 * ``SpringBoot``

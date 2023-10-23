@@ -4,7 +4,7 @@
 
 # Project Summary
 Technical assessment of the ``Builder`` company for backend developer.
-To implement a Rest API to select, register, update and delete a ``Customer``.
+To implement a Rest API to select, register, update and delete a resource.
 
 ## ✔️ Technologies used
 * ``SpringBoot``
