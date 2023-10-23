@@ -1,6 +1,6 @@
 ![dotnet core](https://github.com/osvaldsoza/ApiFuncional/assets/9426175/d88bdc8e-7cc1-4bd3-bb81-d6e80e7a0c74)
 
-# [Translate to English](https://github.com/osvaldsoza/builder-api/blob/main/README.md)
+[Translate to English](https://github.com/osvaldsoza/builder-api/blob/main/README.md)
 
 # Resumo do projeto 
 Avaliação técnica da empresa ``Builder`` para desenvolvedor backend.  
