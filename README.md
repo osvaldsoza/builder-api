@@ -15,19 +15,19 @@ To implement a Rest API to select, register, update and delete a ``Customer``.
 * ``Docker Compose``
 * ``JDK 11``
 
-# 🛠️ Execute project
+## 🛠️ Execute project
 1. Run the command: ``docker compose up -d``.
 1. Run the command: ``./mvnw clean install``.
 1. Run the command: ``./mvnw spring-boot:run``.
 1. IDE's suggestion: ``Spring Tool Suite | Eclipse | VS Code``. In the implementation, ``Intellij`` was used.
 
-# ✔️ Documentation
+## ✔️ Documentation
 ``http://localhost:8080/swagger-ui.html#/``
 
-# ✔️ Postman
+## ✔️ Postman
 ``./Builder.postman_collection.json``
 
-# Author
+## Author
 
 | [<img loading="lazy" src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/cba31f2b-3b5d-4a6d-ab6d-39583efe752b" width=115><br><sub>Osvaldo de Souza Ferreira</sub>](https://github.com/camilafernanda) 
 | :---:
