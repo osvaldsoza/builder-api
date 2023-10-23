@@ -2,12 +2,11 @@
 
 # [Traduzir para Portugues](https://github.com/osvaldsoza/builder-api/blob/main/README-pt.md)
 
-
 # Project Summary
-Avaliação técnica da empresa Builder para desenvolvedor backend.  
-Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um cliente.
+Technical assessment of the ``BUILDER`` company for backend developer.
+To implement a Rest API to select, register, update and delete a ``CUSTOMER``.
 
-## ✔️ Tecnologias utilizadas
+## ✔️ Technologies used
 * ``SpringBoot``
 * ``Spring Data JPA``
 * ``Lombok``
@@ -16,22 +15,22 @@ Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um client
 * ``Docker Compose``
 * ``JDK 11``
 
-# 🛠️ Rodar o projeto
-1. Execute o comnado: ``docker compose up -d`` para levantar o banco de dados. Com isso, a base de dados será iniciada já com alguns registros na tabela ``pet``.
-1. Execute o comnado: ``./mvnw clean install`` para buildar o projeto.
-1. Execute o comnado: ``./mvnw spring-boot:run`` para ``"subir"`` o projeto.
-1. Sugestão de IDE's ``Spring Tool Suite | Eclipse | VS Code``. Na implementação foi utilizado o ``Intellij``.
+# 🛠️ Execute project
+1. Run the command: ``docker compose up -d`` to lift the database. With this the database willstart with some records in the table ``PET``.
+1. Run the command: ``./mvnw clean install`` to build project.
+1. Run the command: ``./mvnw spring-boot:run`` to load the project.
+1. IDE's suggestion``Spring Tool Suite | Eclipse | VS Code``. In the implementation, ``Intellij`` was used.
 
-# ✔️ Documentação
+# ✔️ Documentation
 ``http://localhost:8080/swagger-ui.html#/``
 
 # ✔️ Postman
 ``./Builder.postman_collection.json``
 
-# Autor
+# Author
 
 | [<img loading="lazy" src="https://github.com/osvaldsoza/ApiFuncional/assets/9426175/cba31f2b-3b5d-4a6d-ab6d-39583efe752b" width=115><br><sub>Osvaldo de Souza Ferreira</sub>](https://github.com/camilafernanda) 
 | :---:
 
-![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
+![Badge Finished](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge)
 
