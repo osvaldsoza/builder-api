@@ -3,8 +3,8 @@
 # [Translate to English](https://github.com/osvaldsoza/builder-api/blob/main/README.md)
 
 # Resumo do projeto 
-Avaliação técnica da empresa Builder para desenvolvedor backend.  
-Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um cliente.
+Avaliação técnica da empresa ``BUILDER`` para desenvolvedor backend.  
+Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um ``CLIENTE``.
 
 ## ✔️ Tecnologias utilizadas
 * ``SpringBoot``

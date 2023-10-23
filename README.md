@@ -3,8 +3,8 @@
 # [Traduzir para Portugues](https://github.com/osvaldsoza/builder-api/blob/main/README-pt.md)
 
 # Project Summary
-Technical assessment of the ``BUILDER`` company for backend developer.
-To implement a Rest API to select, register, update and delete a ``CUSTOMER``.
+Technical assessment of the ``Builder`` company for backend developer.
+To implement a Rest API to select, register, update and delete a ``Customer``.
 
 ## ✔️ Technologies used
 * ``SpringBoot``
