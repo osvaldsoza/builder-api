@@ -3,8 +3,8 @@
 # [Translate to English](https://github.com/osvaldsoza/builder-api/blob/main/README.md)
 
 # Resumo do projeto 
-Avaliação técnica da empresa ``BUILDER`` para desenvolvedor backend.  
-Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um ``CLIENTE``.
+Avaliação técnica da empresa ``Builder`` para desenvolvedor backend.  
+Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um ``Cliente``.
 
 ## ✔️ Tecnologias utilizadas
 * ``SpringBoot``
@@ -16,7 +16,7 @@ Implementar uma Rest API para selecionar,cadastrar,atualizar e deletar um ``CLIE
 * ``JDK 11``
 
 # 🛠️ Rodar o projeto
-1. Execute o comnado: ``docker compose up -d`` para levantar o banco de dados. Com isso, a base de dados será iniciada já com alguns registros na tabela ``pet``.
+1. Execute o comnado: ``docker compose up -d`` para levantar o banco de dados. Com isso, a base de dados será iniciada já com alguns registros na tabela ``Pet``.
 1. Execute o comnado: ``./mvnw clean install`` para buildar o projeto.
 1. Execute o comnado: ``./mvnw spring-boot:run`` para ``"subir"`` o projeto.
 1. Sugestão de IDE's ``Spring Tool Suite | Eclipse | VS Code``. Na implementação foi utilizado o ``Intellij``.

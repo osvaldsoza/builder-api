@@ -16,7 +16,7 @@ To implement a Rest API to select, register, update and delete a ``Customer``.
 * ``JDK 11``
 
 # 🛠️ Execute project
-1. Run the command: ``docker compose up -d`` to lift the database. With this the database willstart with some records in the table ``PET``.
+1. Run the command: ``docker compose up -d`` to lift the database. With this the database willstart with some records in the table ``Pet``.
 1. Run the command: ``./mvnw clean install`` to build project.
 1. Run the command: ``./mvnw spring-boot:run`` to load the project.
 1. IDE's suggestion``Spring Tool Suite | Eclipse | VS Code``. In the implementation, ``Intellij`` was used.
