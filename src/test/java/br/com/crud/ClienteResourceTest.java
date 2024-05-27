@@ -67,7 +67,7 @@ public class ClienteResourceTest {
                 .then()
                 .assertThat().statusCode(201);
     }
-//
+//    osvaldo
 //    @Test
 //    public void testExcluiClienteSalvo() {
 //        given()
