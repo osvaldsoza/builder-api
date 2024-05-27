@@ -64,7 +64,6 @@ public class ClienteService {
         var cliente = parseDTOParaEntidade(clienteDTO);
         return clienteRepository.save(cliente);
     }
-
     public Cliente atualizar(Long clienteId, ClienteDTO clienteDTO) {
         var clienteAtual = buscarClientePorId(clienteId);
 
@@ -72,7 +71,6 @@ public class ClienteService {
 
         return clienteRepository.save(clienteAtual);
     }
-
     public void remover(Long clienteId) {
         try {
             clienteRepository.deleteById(clienteId);
