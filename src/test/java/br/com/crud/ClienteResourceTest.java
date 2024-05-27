@@ -54,19 +54,19 @@ public class ClienteResourceTest {
     }
 
     //TODO descomentar
-//    @Test
-//    public void testAtualizaCliente() throws JSONException {
-//        JSONObject empParams = new JSONObject();
-//        empParams.put("nome", "Fulano de Tal");
-//        empParams.put("dataNascimento", "24/07/1990");
-//
-//        given()
-//                .contentType(ContentType.JSON)
-//                .body(empParams.toString())
-//                .put("/builders/")
-//                .then()
-//                .assertThat().statusCode(201);
-//    }
+    @Test
+    public void testAtualizaCliente() throws JSONException {
+        JSONObject empParams = new JSONObject();
+        empParams.put("nome", "Fulano de Tal");
+        empParams.put("dataNascimento", "24/07/1990");
+
+        given()
+                .contentType(ContentType.JSON)
+                .body(empParams.toString())
+                .put("/builders/")
+                .then()
+                .assertThat().statusCode(201);
+    }
 //
 //    @Test
 //    public void testExcluiClienteSalvo() {
